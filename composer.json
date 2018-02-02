@@ -43,7 +43,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Webfactor\\Laravel\\NestedSet\\": "tests"
+            "Webfactor\\Laravel\\NestedSet\\Tests": "tests"
         }
     },
     "scripts": {
