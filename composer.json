@@ -38,12 +38,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Webfactor\\LaravelNestedSet\\": "src"
+            "Webfactor\\Laravel\\NestedSet\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Webfactor\\LaravelNestedSet\\": "tests"
+            "Webfactor\\Laravel\\NestedSet\\": "tests"
         }
     },
     "scripts": {
